@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zad1_java</string>
+    <string name="super_gra">SUPER GRA</string>
+    <string name="java_edition">Java Edition</string>
+    <string name="podaj">Podaj która liczba\njest większa?</string>
+    <string name="punkty">Punkty:</string>
+</resources>

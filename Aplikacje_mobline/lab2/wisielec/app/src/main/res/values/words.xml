@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="words">
+        <item>murarz</item>
+        <item>cegła</item>
+        <item>tynk</item>
+        <item>beton</item>
+        <item>kamień</item>
+        <item>dach</item>
+        <item>rura</item>
+        <item>płot</item>
+        <item>szalunek</item>
+        <item>kostka</item>
+        <item>komin</item>
+        <item>malowanie</item>
+        <item>wiązar</item>
+        <item>klej</item>
+        <item>drewno</item>
+        <item>cement</item>
+        <item>płyta</item>
+        <item>ściana</item>
+        <item>izolacja</item>
+        <item>deska</item>
+        <item>śrubokręt</item>
+        <item>kotew</item>
+        <item>kafel</item>
+        <item>kabina</item>
+        <item>wykończenie</item>
+        <item>farba</item>
+        <item>grunt</item>
+        <item>rurka</item>
+        <item>ocieplenie</item>
+        <item>dachówka</item>
+        <item>okno</item>
+        <item>drabina</item>
+        <item>piła</item>
+        <item>skrzynka</item>
+        <item>wkręt</item>
+        <item>glazura</item>
+        <item>listwa</item>
+        <item>klucz</item>
+        <item>pompa</item>
+        <item>woda</item>
+        <item>mieszalnik</item>
+        <item>zaprawa</item>
+        <item>kratownica</item>
+        <item>kanał</item>
+        <item>przetłaczanie</item>
+        <item>geowłóknina</item>
+        <item>nawierzchnia</item>
+        <item>pianka</item>
+        <item>lina</item>
+        <item>kładka</item>
+        <item>syfon</item>
+        <item>drenaż</item>
+        <item>stal</item>
+        <item>szyna</item>
+        <item>profil</item>
+        <item>element</item>
+        <item>tuleja</item>
+        <item>zawór</item>
+        <item>silikon</item>
+        <item>spoiwo</item>
+        <item>wiertło</item>
+        <item>nośnik</item>
+        <item>regips</item>
+        <item>klepisko</item>
+        <item>klin</item>
+        <item>przekładka</item>
+        <item>korytko</item>
+        <item>radiator</item>
+        <item>kamień ozdobny</item>
+        <item>wentylacja</item>
+        <item>pierścień</item>
+        <item>drut</item>
+        <item>termoizolacja</item>
+        <item>cynk</item>
+        <item>listwa przypodłogowa</item>
+        <item>wąż ogrodowy</item>
+        <item>skład cementowo-wapienny</item>
+        <item>piknik</item>
+        <item>dzwon</item>
+        <item>siekiera</item>
+        <item>żuraw</item>
+        <item>rozwiertak</item>
+        <item>waga</item>
+        <item>pędzel</item>
+        <item>piaskowiec</item>
+        <item>podpórka</item>
+        <item>cysterna</item>
+        <item>zgrzewarka</item>
+        <item>kocioł</item>
+        <item>gąsior</item>
+        <item>nogi do stołu</item>
+        <item>wilgoć</item>
+        <item>klimatyzacja</item>
+        <item>ochraniacz słupków</item>
+        <item>skrobak</item>
+        <item>młotek pneumatyczny</item>
+        <item>zderzak</item>
+        <item>spawanie</item>
+        <item>podesty</item>
+        <item>stelaż</item>
+        </string-array>
+</resources>
